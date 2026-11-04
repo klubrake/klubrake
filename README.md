@@ -27,7 +27,7 @@ My background is conversation design and product writing (Lowe's voice and SMS e
 All credit for Otari itself goes to the Mozilla.ai team and [@njbrake](https://github.com/njbrake). This is the UI/UX layer I contributed.
 
 #### Agent of Empires: Web dashboard and TUI UX pass
-[Agent of Empires](https://github.com/agent-of-empires/agent-of-empires) runs many coding agents from one terminal UI or web dashboard. It's maintained by [@njbrake](https://github.com/njbrake), [@athal7](https://github.com/athal7), [@Seluj78](https://github.com/Seluj78) and contributors.
+[Agent of Empires](https://github.com/agent-of-empires/agent-of-empires) runs many coding agents from one terminal UI or web dashboard. It's maintained by [@njbrake](https://github.com/njbrake), [@jerome-benoit](https://github.com/jerome-benoit), [@Seluj78](https://github.com/Seluj78), [@athal7](https://github.com/athal7), [@cwrau](https://github.com/cwrau) and contributors.
 
 | Before | After |
 |---|---|
