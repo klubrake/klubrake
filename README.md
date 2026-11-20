@@ -1,6 +1,6 @@
 ## Hi, I'm Katie
 
-I'm a UX designer who evaluates product end to end. I open a web app or experience, explore the functionality, layout, and copy, and then propose and ship changes that make it more intuitive and more useful for the people using it.
+I'm a UX designer who evaluates product end to end. I open a web app or experience, explore the functionality, layout, and copy, and then propose and ship changes that make it more intuitive and functional for the people using it.
 
 My background is conversation design and product writing (Lowe's voice and SMS experiences). These days I design in **Claude Design**, write specs an engineer or an agent can build from directly, and implement them with **Claude Code** in both open-source and my own repos.
 
